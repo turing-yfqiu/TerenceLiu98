@@ -34,3 +34,5 @@ My final year project is about “Acceralte the Asymmetric Crypto-system with GP
 * 🚩 Stochastic Process, Markov-related
 
 - 📫 How to reach me: t_lau#uicstat.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats)
