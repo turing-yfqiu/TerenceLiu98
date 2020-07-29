@@ -22,7 +22,7 @@ My name is Terence Lau, AKA:
 - ChunKit_Lau
 - JunJie LIU
 
-I was born in 1998 and I used to be a statistics Undergradute student in BNU-HKBU-UIC and I am now the Research Assistant in STAT department.
+I was born in 1998 and I used to be a statistics Undergradute student in BNU-HKBU UIC and I am now the Research Assistant in STAT department(BNU-HKBU UIC).
 I am also one of the co-founders of [@UICHCC](https://uichcc.com) (UIC Computer Club) and Cyclododecene, a data analysis group;
 My final year project is about “Acceralte the Asymmetric Crypto-system with GPU”, which is not statistics-related, as my supervisor is a professor in physics. His interest is in numerical computing & computer science.
 
