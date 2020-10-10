@@ -36,5 +36,5 @@ My final year project is about “Acceralte the Asymmetric Crypto-system with GP
 - 📫 How to reach me: t_lau#uicstat.com
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=turing-yfqiu)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turing-yfqiu)](https://github.com/anuraghazra/github-readme-stats)
